@@ -1,51 +1,56 @@
 <div align="center">
 
-# Hi there, I'm Priyanshu Mehrotra 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8A2EF7&height=220&section=header&text=Priyanshu%20Mehrotra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" />
 
-### Full Stack Developer · AI/ML Enthusiast · Problem Solver
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2EF7&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications+%F0%9F%A4%96;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Exploring+LangChain+%26+RAG+%F0%9F%94%8D;Solving+LeetCode+one+problem+at+a+time+%F0%9F%92%A1)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;Full+Stack+Developer+from+India;Exploring+LangChain+%26+RAG;Solving+LeetCode+one+problem+at+a+time)](https://git.io/typing-svg)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=priyanshu991&style=flat-square&color=8A2EF7&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/priyanshu991?style=flat-square&color=2E9EF7&label=Followers" />
+</p>
 
 </div>
 
+<br/>
+
+> *"Code is the closest thing we have to magic — and I'm here to keep casting spells."*
+
+<br/>
+
+## 🧭 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+- 🔭 **Currently Building** — an AI Infrastructure Crack Detection Platform: an end-to-end system for detecting structural cracks using Deep Learning, FastAPI, React, Docker, and TensorFlow.
+- 🌱 **Currently Learning** — LangChain, Retrieval-Augmented Generation (RAG), Docker, MLOps, Advanced Backend Development & System Design.
+- 👯 **Open to Collaborating On** — AI/ML, Full Stack Development, and Open Source projects.
+- 🤝 **Looking for Help With** — Model optimization, MLOps deployment, and scalable AI systems.
+- 💬 **Ask Me About** — React, Node.js, Express.js, FastAPI, TensorFlow, Machine Learning, MongoDB, Docker, REST APIs, DSA.
+- ⚡ **Fun Fact** — I enjoy solving LeetCode problems almost as much as building AI projects.
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu991&theme=react-dark&hide_border=true&area=true&height=250" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
-### 🔭 Currently Working On
-**AI Infrastructure Crack Detection Platform** — an end-to-end AI-powered system for detecting structural cracks using Deep Learning, FastAPI, React, Docker, and TensorFlow.
+## 📫 Let's Connect
 
-### 🌱 Currently Learning
-LangChain · Retrieval-Augmented Generation (RAG) · Docker · MLOps · Advanced Backend Development · System Design
+<div align="center">
 
-### 👯 Looking to Collaborate On
-AI/ML, Full Stack Development, and Open Source projects.
-
-### 🤝 Looking for Help With
-Model optimization, MLOps deployment, and scalable AI systems.
-
-### 💬 Ask Me About
-React · Node.js · Express.js · FastAPI · TensorFlow · Machine Learning · MongoDB · Docker · REST APIs · Data Structures & Algorithms
-
-### ⚡ Fun Fact
-I enjoy solving LeetCode problems almost as much as building AI projects.
-
-### 📫 Reach Me
 [![Gmail](https://img.shields.io/badge/Email-allinfun2704%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allinfun2704@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-mehrotra)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_mind_boggler_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/priyanshu991)
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/priyanshu-mehrotra" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/the_mind_boggler_" target="blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://leetcode.com/priyanshu991" target="blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-</p>
+</div>
 
 ---
 
@@ -109,36 +114,52 @@ I enjoy solving LeetCode problems almost as much as building AI projects.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=priyanshu991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=priyanshu991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=420" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu991&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu991&theme=tokyonight&hide_border=true" />
 
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=priyanshu991&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+
 </div>
 
-> **Note:** Replace `priyanshu991` in the stats widget URLs above with your exact GitHub username if it differs, so the cards render correctly.
+> **Note:** Replace `priyanshu991` in the widget URLs above with your exact GitHub username if it differs, so the cards render correctly.
 
 ---
 
 ## 🎯 Current Focus
 
-- 🚧 Building production-ready AI applications
-- ⚙️ Learning MLOps and scalable deployments
-- 🏗️ Strengthening System Design and Backend Engineering
-- 🧩 Competitive Programming & LeetCode
+<table>
+<tr>
+<td align="center" width="25%">🚧<br/><b>Production-Ready AI</b><br/><sub>Building scalable apps</sub></td>
+<td align="center" width="25%">⚙️<br/><b>MLOps</b><br/><sub>Deployment at scale</sub></td>
+<td align="center" width="25%">🏗️<br/><b>System Design</b><br/><sub>Backend engineering</sub></td>
+<td align="center" width="25%">🧩<br/><b>DSA</b><br/><sub>Competitive programming</sub></td>
+</tr>
+</table>
 
 ---
 
 ## 👨‍💻 Portfolio · 📝 Articles · 📄 Resume
 
-_Coming soon — links will be added here._
+<div align="center">
+
+![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-lightgrey?style=for-the-badge)
+![Articles](https://img.shields.io/badge/Articles-Coming_Soon-lightgrey?style=for-the-badge)
+![Resume](https://img.shields.io/badge/Resume-Coming_Soon-lightgrey?style=for-the-badge)
+
+</div>
 
 ---
 
 <div align="center">
 
-⭐ **Always open to collaborating on innovative AI and Full Stack projects!**
+### ⭐ Always open to collaborating on innovative AI and Full Stack projects!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2EF7,100:2E9EF7&height=120&section=footer" />
 
 </div>
