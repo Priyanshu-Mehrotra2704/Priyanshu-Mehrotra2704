@@ -11,11 +11,6 @@
 
 </div>
 
-<br/>
-
-> *"Code is the closest thing we have to magic — and I'm here to keep casting spells."*
-
-<br/>
 
 ## 🧭 About Me
 
