@@ -19,7 +19,6 @@
 <td width="60%" valign="top">
 
 - 🔭 **Currently Building** — an AI Infrastructure Crack Detection Platform: an end-to-end system for detecting structural cracks using Deep Learning, FastAPI, React, Docker, and TensorFlow.
-- 🌱 **Currently Learning** — LangChain, Retrieval-Augmented Generation (RAG), Docker, MLOps, Advanced Backend Development & System Design.
 - 👯 **Open to Collaborating On** — AI/ML, Full Stack Development, and Open Source projects.
 - 🤝 **Looking for Help With** — Model optimization, MLOps deployment, and scalable AI systems.
 - 💬 **Ask Me About** — React, Node.js, Express.js, FastAPI, TensorFlow, Machine Learning, MongoDB, Docker, REST APIs, DSA.
