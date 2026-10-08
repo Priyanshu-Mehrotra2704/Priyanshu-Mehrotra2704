@@ -1,159 +1,147 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8A2EF7&height=220&section=header&text=Priyanshu%20Mehrotra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:3b82f6&height=220&section=header&text=Hey%20there,%20I'm%20a%20Developer%20👋&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20Software%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descAlign=50&descSize=18&theme=tokyonight" width="100%" alt="Header Banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2EF7&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications+%F0%9F%A4%96;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Exploring+LangChain+%26+RAG+%F0%9F%94%8D;Solving+LeetCode+one+problem+at+a+time+%F0%9F%92%A1)](https://git.io/typing-svg)
+  <!-- Animated Typing Subtitle -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Software+Engineer+%F0%9F%92%BB;Crafting+scalable%2C+high-performance+web+apps+%E2%9A%A1;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Cloud+%E2%98%81%EF%B8%8F;Turning+complex+ideas+into+clean%2C+elegant+code+%E2%9C%A8" alt="Typing SVG" />
+  </a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=priyanshu991&style=flat-square&color=8A2EF7&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/priyanshu991?style=flat-square&color=2E9EF7&label=Followers" />
+  <p align="center">
+    <b>Passionate about engineering reliable distributed systems, performant frontend applications, and modern developer tooling.</b>
+  </p>
+
+  <!-- Social & Contact Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 🚀 About Me
+
+```yaml
+name: "Your Name"
+role: "Full-Stack Software Engineer"
+location: "Worldwide / Remote"
+currently_learning: "Advanced System Design, Rust & Distributed Storage"
+interests: ["Cloud Architecture", "Web Performance", "Clean Architecture", "UI/UX Micro-Interactions"]
+current_focus: "Building resilient microservices and delightful user interfaces"
+```
+
+- 🔭 **I’m currently working on:** Scalable microservices, real-time dashboards, and full-stack web applications.
+- 🌱 **I’m currently learning:** Cloud-native architecture, event-driven streaming, and performance profiling.
+- 💡 **Philosophy:** Writing clean, testable, and self-documenting code that scales gracefully.
+- 💬 **Ask me about:** `React`, `Next.js`, `TypeScript`, `Node.js`, `System Architecture`, and `Databases`.
+- ⚡ **Fun Fact:** *There are 10 types of people in the world: those who understand binary, and those who don't.*
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="center">
+
+#### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,cpp,html,css&theme=dark" alt="Languages" />
+</p>
+
+#### 🎨 Frontend Architecture
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vue,vite,sass&theme=dark" alt="Frontend" />
+</p>
+
+#### ⚙️ Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql,prisma&theme=dark" alt="Backend" />
+</p>
+
+#### 🗄️ Databases & Caching
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,firebase&theme=dark" alt="Databases" />
+</p>
+
+#### ☁️ DevOps, Cloud & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github,githubactions,postman,linux,vscode,figma&theme=dark" alt="DevOps and Tools" />
 </p>
 
 </div>
 
-
-## 🧭 About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-- 🔭 **Currently Building** — an AI Infrastructure Crack Detection Platform: an end-to-end system for detecting structural cracks using Deep Learning, FastAPI, React, Docker, and TensorFlow.
-- 👯 **Open to Collaborating On** — AI/ML, Full Stack Development, and Open Source projects.
-- 🤝 **Looking for Help With** — Model optimization, MLOps deployment, and scalable AI systems.
-- 💬 **Ask Me About** — React, Node.js, Express.js, FastAPI, TensorFlow, Machine Learning, MongoDB, Docker, REST APIs, DSA.
-- ⚡ **Fun Fact** — I enjoy solving LeetCode problems almost as much as building AI projects.
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu991&theme=react-dark&hide_border=true&area=true&height=250" width="100%"/>
-
-</td>
-</tr>
-</table>
-
 ---
 
-## 📫 Let's Connect
+### 📊 GitHub Analytics & Highlights
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Email-allinfun2704%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allinfun2704@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-mehrotra)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_mind_boggler_)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/priyanshu991)
+  <!-- GitHub Stats & Top Languages Side-by-Side -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="49%" alt="Top Languages" />
+  </p>
+
+  <!-- Streak Stats Card -->
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="98%" alt="GitHub Streak" />
+  </p>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+### 📂 Featured Open Source & Projects
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**AI / Machine Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :---: |
+| **🚀 CloudFlow Platform** | `Next.js 14`, `TypeScript`, `Tailwind`, `Prisma` | Enterprise workflow automation dashboard with real-time analytics. | [Repo](https://github.com/YOUR_GITHUB_USERNAME/project-one) • [Live Demo](https://project-one.vercel.app) |
+| **⚡ HyperAPI Gateway** | `Node.js`, `Express`, `Redis`, `Docker` | High-throughput rate limiter and microservice API gateway with caching. | [Repo](https://github.com/YOUR_GITHUB_USERNAME/project-two) • [Docs](https://project-two.vercel.app) |
+| **🧠 NeuralSight AI** | `FastAPI`, `Python`, `PyTorch`, `React` | Multimodal AI assistant pipeline for intelligent document extraction. | [Repo](https://github.com/YOUR_GITHUB_USERNAME/project-three) • [Demo](https://project-three.vercel.app) |
+| **🎨 DevCanvas UI** | `React`, `Tailwind CSS`, `Storybook` | Lightweight, accessible component library crafted for SaaS design systems. | [Repo](https://github.com/YOUR_GITHUB_USERNAME/project-four) • [NPM](https://npmjs.com) |
 
 ---
 
-## 📊 GitHub Stats
+### ✍️ Recent Articles & Insights
+
+<!-- BLOG-POST-LIST:START -->
+- 📘 [Architecting Fault-Tolerant Distributed APIs with Node.js and Redis](https://medium.com)
+- 📗 [Mastering React Server Components & Next.js App Router Patterns](https://dev.to)
+- 📙 [Optimizing Web Vitals: A Practical Guide to 99+ Lighthouse Scores](https://medium.com)
+<!-- BLOG-POST-LIST:END -->
+
+> 💡 *Tip: Integrate [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) via GitHub Actions to automatically keep your articles updated here!*
+
+---
+
+### 🤝 Let's Connect & Collaborate!
+
+I am always eager to collaborate on innovative open-source projects, discuss cutting-edge architectures, or explore new opportunities.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=priyanshu991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=420" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu991&layout=compact&theme=tokyonight&hide_border=true" />
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+  [![Portfolio](https://img.shields.io/badge/Personal_Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_USERNAME)
+  [![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-<br/>
+  <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu991&theme=tokyonight&hide_border=true" />
+  <!-- Footer Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e293b,100:0f172a&height=120&section=footer&theme=tokyonight" width="100%" alt="Footer Banner" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=priyanshu991&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-> **Note:** Replace `priyanshu991` in the widget URLs above with your exact GitHub username if it differs, so the cards render correctly.
-
----
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td align="center" width="25%">🚧<br/><b>Production-Ready AI</b><br/><sub>Building scalable apps</sub></td>
-<td align="center" width="25%">⚙️<br/><b>MLOps</b><br/><sub>Deployment at scale</sub></td>
-<td align="center" width="25%">🏗️<br/><b>System Design</b><br/><sub>Backend engineering</sub></td>
-<td align="center" width="25%">🧩<br/><b>DSA</b><br/><sub>Competitive programming</sub></td>
-</tr>
-</table>
-
----
-
-## 👨‍💻 Portfolio · 📝 Articles · 📄 Resume
-
-<div align="center">
-
-![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-lightgrey?style=for-the-badge)
-![Articles](https://img.shields.io/badge/Articles-Coming_Soon-lightgrey?style=for-the-badge)
-![Resume](https://img.shields.io/badge/Resume-Coming_Soon-lightgrey?style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Always open to collaborating on innovative AI and Full Stack projects!
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2EF7,100:2E9EF7&height=120&section=footer" />
+  <sub>Crafted with passion, caffeine, and precision. Powered by GitHub.</sub>
 
 </div>
