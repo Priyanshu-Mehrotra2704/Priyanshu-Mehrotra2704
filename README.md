@@ -2,40 +2,34 @@
 
   <!-- ==================== TOP STATUS BAR ==================== -->
   <p align="center">
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <a href="https://github.com/Priyanshu-Mehrotra2704">
       <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20OPPORTUNITIES-00F5D4?style=for-the-badge&logo=statuspage&logoColor=000&labelColor=0D1117" alt="Status" />
     </a>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
-      <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7928CA&label=PROFILE%20VIEWS" alt="Profile Views" />
+    <a href="https://github.com/Priyanshu-Mehrotra2704">
+      <img src="https://komarev.com/ghpvc/?username=Priyanshu-Mehrotra2704&style=for-the-badge&color=7928CA&label=PROFILE%20VIEWS" alt="Profile Views" />
     </a>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-      <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=38BDF8&labelColor=0D1117" alt="Followers" />
+    <a href="https://github.com/Priyanshu-Mehrotra2704?tab=followers">
+      <img src="https://img.shields.io/github/followers/Priyanshu-Mehrotra2704?style=for-the-badge&logo=github&color=38BDF8&labelColor=0D1117" alt="Followers" />
     </a>
   </p>
 
   <!-- ==================== HERO DYNAMIC BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,25:1e1b4b,60:2563eb,100:38bdf8&height=260&section=header&text=Welcome%20to%20My%20Universe%20🪐&fontSize=44&fontAlignY=36&fontColor=ffffff&desc=Full-Stack%20Software%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Tech%20Explorer&descAlignY=58&descAlign=50&descSize=18&theme=tokyonight" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,25:1e1b4b,60:2563eb,100:38bdf8&height=260&section=header&text=Welcome%20to%20My%20Universe%20🪐&fontSize=44&fontAlignY=36&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Tech%20Explorer&descAlignY=58&descAlign=50&descSize=18&theme=tokyonight" width="100%" alt="Header Banner" />
 
   <!-- ==================== ANIMATED TYPING HEADLINE ==================== -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=console.log(%22Hello%2C%20World!%20%F0%9F%91%8B%22)%3B;Architecting+Robust+%26+Scalable+Cloud+Systems+%E2%9A%A1;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+DevOps+%F0%9F%9A%80;Crafting+Exceptional+Digital+Experiences+%E2%9C%A8;Open+Source+Enthusiast+%26+Lifelong+Learner+%F0%9F%A7%A0" alt="Typing Headline" />
+  <a href="https://github.com/Priyanshu-Mehrotra2704">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=console.log(%22Hello%2C%20World!%20%F0%9F%91%8B%22)%3B;Building+Real-World+Full-Stack+Applications+%E2%9A%A1;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+AI+%F0%9F%9A%80;Crafting+Exceptional+Digital+Experiences+%E2%9C%A8;Generative+AI+%26+RAG+Explorer+%F0%9F%A4%96;Lifelong+Learner+%26+Problem+Solver+%F0%9F%A7%A0" alt="Typing Headline" />
   </a>
 
   <!-- ==================== SOCIAL / CONTACT MATRIX ==================== -->
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://linkedin.com/in/priyanshu-mehrotra" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <a href="https://github.com/Priyanshu-Mehrotra2704" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+    <a href="https://leetcode.com/u/priyanshu991/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
   </p>
@@ -47,7 +41,7 @@
 ### 🏆 GitHub Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-Mehrotra2704&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -69,18 +63,18 @@ interface SoftwareEngineer {
 }
 
 const developer: SoftwareEngineer = {
-  name: "Your Name",
-  role: "Full-Stack Software Engineer",
-  location: "Worldwide / Remote",
+  name: "Priyanshu Mehrotra",
+  role: "Full-Stack Developer & AI Builder",
+  location: "India",
   coreSkills: [
-    "Distributed Systems",
+    "Full-Stack Development",
     "Modern Web Architecture",
-    "Cloud Computing",
-    "Full-Stack Engineering"
+    "Generative AI",
+    "RAG Systems"
   ],
   currentFocus: [
-    "Building High-Concurrency Microservices",
-    "Designing Scalable SaaS Platforms"
+    "Building AI-Powered Applications",
+    "Designing Scalable Full-Stack Platforms"
   ],
   coffeeConsumedPerDay: 3
 };
@@ -90,14 +84,15 @@ const developer: SoftwareEngineer = {
   <td width="45%" valign="top">
 
   #### 🚀 Mission & Highlights
-  * 🔭 **Currently Building**: Next-gen cloud-native SaaS and real-time distributed platforms.
-  * 🌱 **Deepening Knowledge In**: Advanced System Design, Rust, and Kubernetes orchestration.
-  * 💬 **Reach Out For**: React/Next.js, Node.js, Microservices, and Database Optimization.
-  * 🎯 **Career Goal**: Architecting systems that gracefully serve millions of concurrent users.
-  * ⚡ **Motto**: *"Simplicity is the prerequisite for reliability."*
+  * 🔭 **Currently Building**: Placeon — AI-Powered Placement Preparation Hub.
+  * 🌱 **Deepening Knowledge In**: Generative AI, LangChain, RAG, AI Agents, and System Design.
+  * 💬 **Reach Out For**: React, Node.js, TypeScript, Django, Supabase, PostgreSQL, and AI applications.
+  * 🎯 **Career Goal**: Becoming a strong software engineer who builds scalable real-world products.
+  * ⚡ **Motto**: *"Build. Break. Learn. Build Better."*
 
   </td>
   </tr>
+
 </table>
 
 ---
@@ -108,12 +103,12 @@ const developer: SoftwareEngineer = {
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,python,go,cpp,html,css&theme=dark" alt="Languages" /> |
-| **Frontend Ecosystem** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vue,vite,sass&theme=dark" alt="Frontend" /> |
-| **Backend & Services** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql,prisma&theme=dark" alt="Backend" /> |
-| **Databases & Cache** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,firebase&theme=dark" alt="Databases" /> |
-| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,githubactions,linux,nginx&theme=dark" alt="Cloud" /> |
-| **Developer Tools** | <img src="https://skillicons.dev/icons?i=vscode,postman,figma,jest,git,github,bash&theme=dark" alt="Tools" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,html,css&theme=dark" alt="Languages" /> |
+| **Frontend Ecosystem** | <img src="https://skillicons.dev/icons?i=react,tailwind,vite,redux&theme=dark" alt="Frontend" /> |
+| **Backend & Services** | <img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" alt="Backend" /> |
+| **Databases & Cache** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&theme=dark" alt="Databases" /> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,nginx&theme=dark" alt="Cloud" /> |
+| **Developer Tools** | <img src="https://skillicons.dev/icons?i=vscode,postman,figma,git,github,bash&theme=dark" alt="Tools" /> |
 
 </div>
 
@@ -127,22 +122,22 @@ const developer: SoftwareEngineer = {
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Mehrotra2704&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&langs_count=8" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Mehrotra2704&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&langs_count=8" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <!-- Streak Stats Card -->
   <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" width="98%" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Priyanshu-Mehrotra2704&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" width="98%" alt="GitHub Streak" />
   </p>
 
   <!-- Interactive Contribution Activity Graph -->
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&custom_title=Overall%20Contribution%20Radar&bg_color=0D1117&hide_border=true&color=38BDF8&line=38BDF8&point=F1F5F9" width="98%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Mehrotra2704&theme=tokyo-night&custom_title=Overall%20Contribution%20Radar&bg_color=0D1117&hide_border=true&color=38BDF8&line=38BDF8&point=F1F5F9" width="98%" alt="Activity Graph" />
   </p>
 
 </div>
@@ -152,7 +147,7 @@ const developer: SoftwareEngineer = {
 ### 🐍 Contribution Activity Flow
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Contribution Animation" />
+  <img src="https://raw.githubusercontent.com/Priyanshu-Mehrotra2704/Priyanshu-Mehrotra2704/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Contribution Animation" />
   <p><sub><i>(Tip: Check the workflow below to activate the live auto-generating snake animation!)</i></sub></p>
 </div>
 
@@ -163,65 +158,69 @@ const developer: SoftwareEngineer = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 CloudFlow Platform</h3>
-      <p><b>Enterprise Workflow Automation & Analytics Suite</b></p>
-      <p>Full-stack event-driven automation platform orchestrating distributed cloud workflows with sub-millisecond response latency.</p>
+      <h3>🚀 Placeon</h3>
+      <p><b>AI-Powered Placement Preparation Hub</b></p>
+      <p>Full-stack placement preparation platform connecting students with interview experiences, company-wise question banks, job roles and mock-interview opportunities.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js%2014-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/project-one"><b>📂 View Repository</b></a> • 
-        <a href="https://project-one.vercel.app"><b>🌐 Live Demo</b></a>
+        <a href="https://github.com/Priyanshu-Mehrotra2704"><b>📂 View GitHub</b></a> • 
+        <a href="https://placeon.online"><b>🌐 Live Demo</b></a>
       </p>
     </td>
+
     <td width="50%" valign="top">
-      <h3>⚡ HyperAPI Gateway</h3>
-      <p><b>Distributed Microservice Gateway & Rate Limiter</b></p>
-      <p>Ultra-low-latency API gateway handling 50k+ requests/sec with intelligent in-memory Redis caching and JWT authentication.</p>
+      <h3>🧠 Swasthya Mitra</h3>
+      <p><b>Digital Psychological Intervention System</b></p>
+      <p>AI-powered digital intervention platform developed for the Smart India Hackathon with chatbot, screening, sentiment analysis, gamification and anonymous peer community features.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/project-two"><b>📂 View Repository</b></a> • 
-        <a href="https://project-two.vercel.app"><b>📖 Documentation</b></a>
+        <b>🏆 Smart India Hackathon Project</b>
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 NeuralSight AI</h3>
-      <p><b>Multimodal Document Intelligence Assistant</b></p>
-      <p>AI-powered pipeline utilizing LLMs and vector embeddings to extract, analyze, and query massive unstructured datasets.</p>
+      <h3>🏗️ AI Infrastructure Crack Detection</h3>
+      <p><b>AI-Based Infrastructure Crack Detection Platform</b></p>
+      <p>Computer vision project focused on detecting infrastructure cracks using deep learning, image classification and transfer learning.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/project-three"><b>📂 View Repository</b></a> • 
-        <a href="https://project-three.vercel.app"><b>🚀 Try Demo</b></a>
+        <b>Dataset:</b> SDNET2018<br/>
+        <b>Model:</b> EfficientNet / CNN
       </p>
     </td>
+
     <td width="50%" valign="top">
-      <h3>🎨 DevCanvas UI</h3>
-      <p><b>Accessible, Fluid Design System & Component Library</b></p>
-      <p>Custom React UI library featuring WCAG 2.1 AA compliance, glassmorphism presets, and 60fps micro-animations.</p>
+      <h3>🤖 Generative AI & RAG</h3>
+      <p><b>LLM-Powered Applications & Retrieval Systems</b></p>
+      <p>Exploring modern LLM workflows, Retrieval-Augmented Generation, embeddings, vector search and AI agents for practical applications.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
-        <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square&logo=googlecloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/YOUR_GITHUB_USERNAME/project-four"><b>📂 View Repository</b></a> • 
-        <a href="https://npmjs.com"><b>📦 NPM Package</b></a>
+        <b>Focus:</b> LLMs • RAG • Embeddings • Vector Search • AI Agents
       </p>
     </td>
   </tr>
@@ -237,12 +236,14 @@ const developer: SoftwareEngineer = {
 
 | Category | Equipment / Tooling |
 | :--- | :--- |
-| **Machine** | MacBook Pro M-Series / Custom Linux Workstation |
-| **Editor** | VS Code (Theme: Tokyo Night / Catppuccin Mocha) |
-| **Terminal** | iTerm2 / Windows Terminal + Oh My Zsh (`Powerlevel10k`) |
-| **Font** | JetBrains Mono / Fira Code with Ligatures |
-| **Key Software** | Docker Desktop, Postman, TablePlus, Raycast, Figma |
-| **Audio Fuel** | Synthwave & Lo-Fi Coding Beats 🎧 |
+| **Development Environment** | Full-Stack Web & AI Development |
+| **Editor** | VS Code |
+| **Languages** | JavaScript / TypeScript / Python / Java / C++ |
+| **Backend** | Node.js / Express / Django |
+| **Database** | PostgreSQL / Supabase / MongoDB |
+| **AI Stack** | LangChain / RAG / Gemini API |
+| **Key Software** | Git, GitHub, Docker, Postman, Figma |
+| **Focus** | Full-Stack Development & AI Engineering |
 
 </details>
 
@@ -256,21 +257,61 @@ const developer: SoftwareEngineer = {
 
 ---
 
+### 🧩 Problem Solving & Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/u/priyanshu991/">
+  <img src="https://img.shields.io/badge/LeetCode-priyanshu991-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<b>300+ Problems Solved</b>
+
+</div>
+
+**Achievements:**
+
+- 🏅 100 Days LeetCode Badge
+- 🏆 Global Rank 783 — LeetCode Biweekly Contest 96
+- 🏆 Global Rank 557 — Starters 76 Div3
+
+---
+
+### 🎯 Career Focus
+
+I'm currently focused on becoming a strong software engineer by building real-world products and strengthening my fundamentals.
+
+**Interested in:**
+
+- Full-Stack Development
+- Backend Engineering
+- Generative AI
+- RAG & AI Agents
+- System Design
+- Software Development Internships
+- Startup & Product Development
+
+---
+
 ### 🤝 Let's Build Something Remarkable Together!
 
-I'm always open to discussing new opportunities, open-source initiatives, or innovative system architectures.
+I'm always open to discussing new opportunities, open-source initiatives, AI applications, interesting technical problems, or innovative system architectures.
 
 <div align="center">
 
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://linkedin.com/in/priyanshu-mehrotra" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Explore_Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+
+    <a href="https://github.com/Priyanshu-Mehrotra2704" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Explore_Work-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-Direct_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+    <a href="https://leetcode.com/u/priyanshu991/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-Solve_With_Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
     </a>
   </p>
 
@@ -282,3 +323,6 @@ I'm always open to discussing new opportunities, open-source initiatives, or inn
   <sub>Designed with precision & engineered with passion. Powered by GitHub Markdown.</sub>
 
 </div>
+```
+
+Is baar **original template ka skeleton hi follow kiya hai**: status bar → hero → typing → social matrix → trophies → developer identity → tech arsenal → analytics → snake → flagship projects → battle station → thought → footer.
